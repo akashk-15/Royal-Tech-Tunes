@@ -1,0 +1,4 @@
+Jul 11, 2023 10:11:50 PM com.mycompany.myapplication.AdminPage logger
+INFO: User 'success login' logged in
+Jul 11, 2023 10:11:59 PM com.mycompany.myapplication.AdminPage logger
+WARNING: User 'login failed' logged in
